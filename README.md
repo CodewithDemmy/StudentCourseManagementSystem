@@ -1,10 +1,10 @@
 # Student Course Management System
 
-A console-based Java application for recording and managing a semester's course list — built for the COS 201 (Programming I) mid-semester lab assessment at MIVA Open University.
+A console-based Java application for recording and managing a semester's course list  built for the COS 201 (Programming I) mid-semester lab assessment at MIVA Open University.
 
 ## Overview
 
-This program lets a student add courses, view all recorded courses, search for a course by code, compute total credit units, and save/load the course list to and from a file — all through a simple text menu.
+This program lets a student add courses, view all recorded courses, search for a course by code, compute total credit units, and save/load the course list to and from a file all through a simple text menu.
 
 ## Features
 
